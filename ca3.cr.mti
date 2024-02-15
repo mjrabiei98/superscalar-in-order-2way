@@ -1,0 +1,56 @@
+{C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 1/advanced architecture/CA/CA3/modelsim project/datapath.v} {1 {vlog -work work {C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 1/advanced architecture/CA/CA3/modelsim project/datapath.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module data_path
+
+Top level modules:
+	data_path
+
+} {} {}} {C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 1/advanced architecture/CA/CA3/modelsim project/ELMNTS1.v} {1 {vlog -work work {C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 1/advanced architecture/CA/CA3/modelsim project/ELMNTS1.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux3_to_1
+-- Compiling module mux2_to_1
+-- Compiling module sign_extension
+-- Compiling module shl2
+-- Compiling module alu
+-- Compiling module adder
+-- Compiling module reg_file
+-- Compiling module inst_memory
+-- Compiling module data_memory
+-- Compiling module pc
+-- Compiling module register
+
+Top level modules:
+	mux3_to_1
+	mux2_to_1
+	sign_extension
+	shl2
+	alu
+	adder
+	reg_file
+	inst_memory
+	data_memory
+	pc
+	register
+
+} {} {}} {C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 1/advanced architecture/CA/CA3/modelsim project/mips.v} {1 {vlog -work work {C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 1/advanced architecture/CA/CA3/modelsim project/mips.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mips
+
+Top level modules:
+	mips
+
+} {} {}} {C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 1/advanced architecture/CA/CA3/modelsim project/cntrlr.v} {1 {vlog -work work {C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 1/advanced architecture/CA/CA3/modelsim project/cntrlr.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} {C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 1/advanced architecture/CA/CA3/modelsim project/Tb.v} {1 {vlog -work work {C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 1/advanced architecture/CA/CA3/modelsim project/Tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}}

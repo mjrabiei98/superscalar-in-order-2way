@@ -1,0 +1,310 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\mohammad javad\Desktop\uni\arshad tehran university\term 1\test\CA\CA4\part3
+vadder
+Z1 !s100 NkoifYag>J>n>CPjj5V>[0
+Z2 IAK0l4Y7`QCXd_@j9ViNPW0
+Z3 VJ8@<7XkcmZ70QZ3lPzD4c0
+Z4 dC:\Users\mohammad javad\Desktop\uni\arshad tehran university\term 1\advanced architecture\CA\CA3\modelsim project
+Z5 w1707298112
+Z6 8C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 1/advanced architecture/CA/CA3/modelsim project/ELMNTS1.v
+Z7 FC:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 1/advanced architecture/CA/CA3/modelsim project/ELMNTS1.v
+L0 66
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s108 1707336355.777000
+Z10 !s107 C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 1/advanced architecture/CA/CA3/modelsim project/ELMNTS1.v|
+Z11 !s90 -reportprogress|300|-work|work|C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 1/advanced architecture/CA/CA3/modelsim project/ELMNTS1.v|
+Z12 o-work work -O0
+!i10b 1
+!s85 0
+!s101 -O0
+valu
+Z13 !s100 Hlfh08T0eSQbjD7GTzK0T3
+Z14 IM_KJB[5in8]`KNWFICk^k3
+Z15 VF@Y]B8cgGdnYOb9FSW[W21
+R4
+R5
+R6
+R7
+L0 39
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vcontroller
+Z16 !s100 iYgimPz3b><j@JUaSgjE=2
+Z17 I7Jm<T=]Z?CJH0`;ddnlK53
+Z18 VI_h8TjgmjK:;Fi`KoNZ430
+R4
+Z19 w1707067769
+Z20 8C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 1/advanced architecture/CA/CA3/modelsim project/cntrlr.v
+Z21 FC:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 1/advanced architecture/CA/CA3/modelsim project/cntrlr.v
+L0 40
+R8
+r1
+31
+Z22 !s90 -reportprogress|300|-work|work|C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 1/advanced architecture/CA/CA3/modelsim project/cntrlr.v|
+R12
+Z23 !s108 1707336355.682000
+Z24 !s107 C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 1/advanced architecture/CA/CA3/modelsim project/cntrlr.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdata_memory
+Z25 !s100 :n]XCjzX22C1>A3A5?GHX2
+Z26 IJJgl_4ECoa`=z957zjj9O3
+Z27 V=:fBOgJ^fiB@NmLn>FQ5j0
+R4
+R5
+R6
+R7
+Z28 L0 104
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vdata_path
+Z29 I[CnSAX2`M91J5F<0LTk5o2
+Z30 Vh:<``WYMBFOj<45ULZcNL1
+R4
+Z31 w1707330447
+Z32 8C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 1/advanced architecture/CA/CA3/modelsim project/datapath.v
+Z33 FC:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 1/advanced architecture/CA/CA3/modelsim project/datapath.v
+L0 7
+R8
+r1
+31
+Z34 !s90 -reportprogress|300|-work|work|C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 1/advanced architecture/CA/CA3/modelsim project/datapath.v|
+R12
+Z35 !s100 3fZKSDBK1i0<Ui?oDCR<T1
+Z36 !s108 1707336355.729000
+Z37 !s107 C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 1/advanced architecture/CA/CA3/modelsim project/datapath.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vinst_memory
+Z38 !s100 <;M8A^NWB<KZ29BT>ZEaF0
+Z39 IEzQG6RP58U2Iz>3Ng6Al21
+Z40 VkCE0eFMe;i4fn:LHSU]I11
+R4
+R5
+R6
+R7
+L0 94
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vissueLogic
+!i10b 1
+!s100 c2WN;6i1OcB;>QF82Vdo=2
+I`zZC0OBW04`zdlA99nJYN1
+Z41 VD?9Xb9Q46z6QTD<MAI=V:1
+R4
+w1707335979
+Z42 8C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 1/advanced architecture/CA/CA3/modelsim project/issueLogic.v
+Z43 FC:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 1/advanced architecture/CA/CA3/modelsim project/issueLogic.v
+L0 25
+R8
+r1
+!s85 0
+31
+!s108 1707336355.920000
+!s107 C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 1/advanced architecture/CA/CA3/modelsim project/issueLogic.v|
+Z44 !s90 -reportprogress|300|-work|work|C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 1/advanced architecture/CA/CA3/modelsim project/issueLogic.v|
+!s101 -O0
+R12
+Z45 nissue@logic
+vmips
+Z46 !s100 2;6hQo:ZdeQSdY>VRc;]:1
+Z47 Injlb5JDI`5K^IB5=8XC0c0
+Z48 Vc[_]UMni114f1T4Qb=b?k0
+R4
+Z49 w1707067762
+Z50 8C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 1/advanced architecture/CA/CA3/modelsim project/mips.v
+Z51 FC:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 1/advanced architecture/CA/CA3/modelsim project/mips.v
+L0 1
+R8
+r1
+31
+Z52 !s90 -reportprogress|300|-work|work|C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 1/advanced architecture/CA/CA3/modelsim project/mips.v|
+R12
+Z53 !s108 1707336355.856000
+Z54 !s107 C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 1/advanced architecture/CA/CA3/modelsim project/mips.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux2_to_1
+Z55 !s100 7^IoNN>ETkEFSiz;:bQ`o1
+Z56 I=5jTm@RBiCH=zBFz^?PQ03
+Z57 VCf:P9H9T9i=lH_ZjGUeQ42
+R4
+R5
+R6
+R7
+L0 24
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vmux3_to_1
+Z58 !s100 zLHi=6:jB6_9fldL]oYRz1
+Z59 I14a@J31XHWK=@Czb;nGI51
+Z60 VBPOO?8PL3n2;P7PzN0EHo1
+R4
+R5
+R6
+R7
+L0 19
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vpc
+Z61 !s100 h9DSNRg:KDAH:7zPH95n73
+Z62 Io=@8_f^hDJ0Oiig]]^71?1
+Z63 V=[Q_l0LQLhanA8FG^[?ZL0
+R4
+R5
+R6
+R7
+Z64 L0 141
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vreg_file
+Z65 !s100 @6W`532bYBlVMjRJQ_Chk2
+Z66 IBM17K0U>9ToEXoV^YNL^10
+Z67 V:]mKc^[SdCY[zHIfJ>>NG0
+R4
+R5
+R6
+R7
+L0 73
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vregister
+Z68 !s100 ICBK:1SnQ8?=n=n`3Dkz>1
+Z69 I0G5:lFYj;eE7anNG8D0I63
+Z70 VP70Pe6_=Cl<mBWZDMS]XV3
+R4
+R5
+R6
+R7
+Z71 L0 149
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vshl2
+Z72 !s100 GU9>[=SA0j=``dPT2CYBo0
+Z73 IS8J<;OV?SR]KfdJ;]6V^83
+Z74 VQaCF?e[0m9bLEz>eDoT7W1
+R4
+R5
+R6
+R7
+L0 34
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vsign_extension
+Z75 !s100 ^70i3o;`@2UED8bYA:DG33
+Z76 IcgPVc^][EZK_]81dXA6kY1
+Z77 VGQY<<Y_WLnG]gla3733RX3
+R4
+R5
+R6
+R7
+L0 29
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vtb
+Z78 !s100 5LMi:XRdHTEa2R=DFLCLK2
+Z79 I9`_RZJfMR[6AVU>18IYiZ3
+Z80 VV@Xn<HnSRM[I5c1?BH]3a3
+R4
+Z81 w1707032001
+Z82 8C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 1/advanced architecture/CA/CA3/modelsim project/Tb.v
+Z83 FC:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 1/advanced architecture/CA/CA3/modelsim project/Tb.v
+L0 2
+R8
+r1
+31
+Z84 !s90 -reportprogress|300|-work|work|C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 1/advanced architecture/CA/CA3/modelsim project/Tb.v|
+R12
+!i10b 1
+!s85 0
+Z85 !s108 1707336355.872000
+Z86 !s107 C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 1/advanced architecture/CA/CA3/modelsim project/Tb.v|
+!s101 -O0
